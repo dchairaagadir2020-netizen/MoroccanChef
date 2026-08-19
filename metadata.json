@@ -1,0 +1,6 @@
+{
+  "name": "الشاف المغربي وخبير التغذية | Moroccan Chef",
+  "description": "اقترح وصفات مغربية وعالمية سهلة بالدارجة مع المقادير الدقيقة، خطوات التحضير، والفوائد الصحية والسعرات الحرارية من تصاور ولا لائحة المقادير.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
